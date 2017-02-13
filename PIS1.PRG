@@ -1,6 +1,6 @@
 DO WHILE .T.
     OSmenu_okno(6,38, "TISKALNIK",;
-                     { " SINTETIKA    ",;
+                     { " CELA KNJIGA  ",;
                        " PO KONTIH    ",;
                        " KRONOLO[KI I.",;
                        " NEPL. RA^UNI ",;
