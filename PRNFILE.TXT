@@ -1,0 +1,35 @@
+
+RIS                           
+SMILJAN BELCL s.p.            
+9240 LJUTOMER                                , PODGRADJE 8 A                 
+---------------------
+
+
+          KNJIGA PRIHODKOV in ODHODKOV  na dan:        
+          01.01.16 - 13.02.17
+
+06 PRIHODKI OD PRODAJE                               
+                                                                  312,269.23
+  --------------------------------------------------------------------------
+   SKUPAJ PRIHODKI:                                                                   312,269.23
+
+
+
+12 BLAGO IN MATERIAL                                 
+                                                                  224,538.04
+
+13 POMO@NI MATERIAL,ENERGIJA,DROBNI INVENTAR,...     
+                                                                    1,752.54
+
+16 PRISP.NA PLA^E IN OBV.SOC.VARNOST DELAVCEV        
+                                                                       54.99
+  --------------------------------------------------------------------------
+   SKUPAJ ODHODKI:                                                                   226,345.57
+
+
+   PRIHODKI:                312,269.23
+   ODHODKI:                226,345.57
+   -----------------------
+
+   SALDO:             E     85,923.66F
+
