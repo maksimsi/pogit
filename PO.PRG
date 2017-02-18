@@ -62,7 +62,7 @@ set procedure to ..\util\locks
 set procedure to ..\util\prnutil
 set procedure to ..\util\FBrowse
 
-cVersion = "2010.08-17"
+cVersion = "2017.02-14"
 
 do up2date
 
